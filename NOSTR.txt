@@ -7,3 +7,21 @@ For each version release:
    - short notes
 4. Post to Nostr as event
 5. Thread commentary & improvement discussion under event
+
+----- BEGIN PRSB RELEASE -----
+
+Protocol-Ready Small Business Standard (PRSB)
+Version: v0.1
+Commit Hash: 92eda82957a40c499f235e2f4776bb7cfce4931e
+Repository: https://github.com/tech-hammer/protocol-ready-small-business
+Status: Draft Standard – Open for QA, Implementers, and Collaboration
+Date: 2025-01-XX
+
+SIGNING INSTRUCTIONS:
+Sign the following string using the TechHammer Nostr business identity key:
+
+PRSB_v0.1_commit_92eda82957a40c499f235e2f4776bb7cfce4931e
+
+Then publish the signature + event on Nostr.
+
+----- END PRSB RELEASE -----
