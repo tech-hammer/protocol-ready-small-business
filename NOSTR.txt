@@ -1,0 +1,9 @@
+For each version release:
+1. Export repo hash
+2. Sign hash with TechHammer business key
+3. Publish:
+   - hash
+   - version number
+   - short notes
+4. Post to Nostr as event
+5. Thread commentary & improvement discussion under event
