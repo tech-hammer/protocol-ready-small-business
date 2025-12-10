@@ -1,0 +1,16 @@
+{
+  "vendor_key": "nostr:npub...",
+  "timestamp": "2025-01-01T00:00:00Z",
+  "products": [
+    {
+      "id": "service-001",
+      "name": "Sovereign Business Onboarding",
+      "description": "Identity, custody, Lightning settlement, transparency ops",
+      "price_sats": 250000,
+      "unit": "fixed",
+      "version": "1.0",
+      "sla": "deliverable within 5 business days",
+      "availability": "global"
+    }
+  ]
+}
