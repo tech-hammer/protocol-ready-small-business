@@ -31,3 +31,5 @@ PRSB does not prescribe or guarantee compensation for contributions.
    - the contributor MAY sign the contribution with a cryptographic key
    - the merge is recorded in the public repository history
 5. Any reputation or trust signaling derived from contributions is external to PRSB and not defined by this specification
+
+Proposals that conflict with documented non-goals in `NON_GOALS.md` will be rejected.
