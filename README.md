@@ -39,3 +39,6 @@ All contributions are signed, timestamped, and rewarded using sats.
 See CONTRIBUTING.md
 
 PRSB operates under a strict neutrality and non-alignment constraint. See `GOVERNANCE/NEUTRALITY.md`.
+
+Specification stewardship and maintainer scope are defined in `GOVERNANCE/MAINTAINERS.md`.
+
